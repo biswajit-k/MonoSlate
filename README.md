@@ -219,6 +219,11 @@ The template is ready to be used, however like always, there is some scope for i
 
 There is a lot of code, especially styling which is redundant. Also, some parts of extraneous code exist.
 
+**Markdown Rendering Style**
+
+Each blog is actually a markdown that is rendered into html. The formatting is not proper at places like nested list alignment, line height, spacing. The styles need to be
+tweaked so that text is well formated and easily readable. This is essential as blog is one the most important section.
+
 **Template Usability**
 
 Overall, the current template provides good flexibility in customizing content. However, some improvements can be made to improve it further like the option to add a custom logo, flexibility in changing the design, re-arranging sections like lego blocks and more.
